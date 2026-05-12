@@ -1,0 +1,5 @@
+pos-system/node_modules/
+pos-system/client/node_modules/
+pos-system/client/dist/
+pos-system/server/pos.db
+.claude/
